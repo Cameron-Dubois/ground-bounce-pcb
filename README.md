@@ -30,7 +30,7 @@ Full write-up with oscilloscope captures and calculated bondout inductance is in
 
 ## Files
 
-- `PCB2.PcbDoc`, `Project2.PrjPcb` — Altium source files
-- `gerbers/` — fabrication-ready Gerber files
+- `PCB2.PcbDoc` — Altium source files
+- `gerber/` — fabrication-ready Gerber files
 - `images/` — schematic and layout renders
 - `ground_bounce_writeup.pdf` — full report with measurements and analysis
